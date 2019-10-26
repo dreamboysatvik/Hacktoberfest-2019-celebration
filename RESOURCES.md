@@ -64,5 +64,5 @@ I [Pravallika Kura](https://github.com/PravallikaKura) recommend [Florin Pop pro
 I [Ricci](https://github.com/riccikl) recommend [Learn JavaScript with "You-Dont-Know-JS"](https://github.com/getify/You-Dont-Know-JS)
 
 I [Nisheanthan] (https://github.com/Nisheanthan) recommend [Java course for beginners by Edureka via YouTube](https://www.youtube.com/watch?v=hBh_CC5y8-s)
-I [SatvikSingh] (https://github.com/dreamboysatvik) recommend [C course for beginners by satvik via youtube]
+I [SatvikSingh] (https://github.com/dreamboysatvik) recommend [arduino coding via youtube](https://www.youtube.com/watch?v=2-OP5bAWVl)
 
